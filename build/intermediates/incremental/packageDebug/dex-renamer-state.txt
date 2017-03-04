@@ -1,0 +1,7 @@
+#Sat Mar 04 20:25:11 CET 2017
+base.0=C\:\\Users\\TouxStudio\\AndroidStudioProjects\\2WeekExercise\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f363983ac5f0d0acd93a79d4d441bb3bcad64a38
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\TouxStudio\\AndroidStudioProjects\\2WeekExercise\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4a2dd8c4563ed70b427b3578b4e214efc7ab7afc\\classes.dex
+base.1=C\:\\Users\\TouxStudio\\AndroidStudioProjects\\2WeekExercise\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4a2dd8c4563ed70b427b3578b4e214efc7ab7afc
+file.0=C\:\\Users\\TouxStudio\\AndroidStudioProjects\\2WeekExercise\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f363983ac5f0d0acd93a79d4d441bb3bcad64a38\\classes.dex

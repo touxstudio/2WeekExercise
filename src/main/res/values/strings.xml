@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">2WeekExercise</string>
+    <string name="title">Confirma tus datos</string>
+    <string name="name">Tu nombre</string>
+    <string name="phone">Tu Teléfono</string>
+    <string name="email">Tu Email</string>
+    <string name="contact">Tu comentario</string>
+    <string name="next">Siguiente</string>
+    <string name="date">Fecha</string>
+    <string name= "edit_button">Editar Datos</string>
+
+    <string name="snack_text">MSG: </string>
+
+</resources>
